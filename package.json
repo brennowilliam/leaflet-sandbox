@@ -23,6 +23,7 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-modal": "^3.5.1",
+    "react-router-dom": "^4.3.1",
     "reselect": "^3.0.1",
     "rmwc": "^1.7.6",
     "webpack": "^3.1.0",

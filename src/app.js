@@ -7,6 +7,6 @@ import "normalize.css/normalize.css";
 import "./styles/styles.scss";
 
 // Components
-import BasicExample from "./components/BasicExample";
+import AppRouter from "./routers/AppRouter";
 
-ReactDOM.render(<BasicExample />, document.getElementById("root"));
+ReactDOM.render(<AppRouter />, document.getElementById("root"));
