@@ -4,7 +4,8 @@ import { NavLink } from "react-router-dom";
 const examples = [
   { name: "Basic", url: "/" },
   { name: "Shapes", url: "/shapes" },
-  { name: "Simple", url: "/simple" }
+  { name: "Simple", url: "/simple" },
+  { name: "Event Handling", url: "/event-handling" }
 ];
 
 const Header = () => (
